@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://blog.orzn.win/da-mu-biao-he-xiao-mu-biao/",
+            "url": "https://blog.orzn.win/da-mu-biao-he-xiao-mu-biao/",
+            "title": "大目标和小目标",
+            "summary": " 定下目标，并为了实现目标而行动，复盘是促进达成目标的一种有效行动．在这里，对自己日常鸡娃、给自己打鸡血提高进行记录总结，达到持续改进的目的． 此外，回顾的时候，看着这些多多少少的记录，应该会增加一点成就感吧． 如果可能，把一些关键的实践记录下来，搞成一本传家宝、家训一类的书应该也不错。",
+            "content_html": "<p>　　定下目标，并为了实现目标而行动，复盘是促进达成目标的一种有效行动．在这里，对自己日常鸡娃、给自己打鸡血提高进行记录总结，达到持续改进的目的．</p>\n<p>　　此外，回顾的时候，看着这些多多少少的记录，应该会增加一点成就感吧．</p>\n<p>　　如果可能，把一些关键的实践记录下来，搞成一本传家宝、家训一类的书应该也不错。</p>",
+            "author": {
+                "name": "宝蓝娃娃"
+            },
+            "tags": [
+                   "鸡自己"
+            ],
+            "date_published": "2021-04-27T11:11:42+08:00",
+            "date_modified": "2021-04-27T11:11:42+08:00"
+        },
+        {
             "id": "https://blog.orzn.win/wa-xie-zuo-ye-he-fan-qie-gong-zuo-fa/",
             "url": "https://blog.orzn.win/wa-xie-zuo-ye-he-fan-qie-gong-zuo-fa/",
             "title": "娃写作业和番茄工作法",
