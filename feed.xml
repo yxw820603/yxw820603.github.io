@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>宝蓝娃娃</title>
-    <link href="https://yxw820603.github.io/feed.xml" rel="self" />
-    <link href="https://yxw820603.github.io" />
+    <link href="https://blog.orzn.win/feed.xml" rel="self" />
+    <link href="https://blog.orzn.win" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>宝蓝娃娃</name>
     </author>
-    <id>https://yxw820603.github.io</id>
+    <id>https://blog.orzn.win</id>
 
 </feed>
